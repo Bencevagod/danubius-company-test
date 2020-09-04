@@ -100,7 +100,7 @@ For example: input -> "1200 cm", output -> 12
 
 Initialize the datastructure with example inputs.
 
-`` `java
+```java
 class Metrics {
   list containing length_units = [mm, cm, dm, m, km]
   list containing length_values = [0.001, 0.01, 0.1, 1, 1000]
@@ -150,4 +150,4 @@ class Metrics {
 
   }
 }
-`` `
+```
